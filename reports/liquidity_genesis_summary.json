@@ -1,0 +1,11 @@
+{
+    "season": 28,
+    "module": "liquidity_genesis_pulse",
+    "liquidity_output": 138701.4326,
+    "liquidity_factor": 7.899,
+    "pulse_strength": "96.55%",
+    "source_energy_units": 1110.086,
+    "source_token_flow": 17559.248,
+    "source_balance_index": 6.431,
+    "timestamp": "2025-10-04T17:51:51.084988Z"
+}

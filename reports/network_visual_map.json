@@ -1,0 +1,60 @@
+{
+    "timestamp": "2025-10-04 18:26:42.883272",
+    "total_nodes": 11,
+    "total_edges": 10,
+    "nodes": [
+        "system",
+        "ai_core",
+        "network_intelligence",
+        "data_fusion",
+        "cognitive_analytics",
+        "autonomous_operations",
+        "replication",
+        "external_deployment",
+        "blockchain_link",
+        "iceboys_token_sync",
+        "phase2_deployment_manifest"
+    ],
+    "edges": [
+        {
+            "from": "system",
+            "to": "ai_core"
+        },
+        {
+            "from": "ai_core",
+            "to": "network_intelligence"
+        },
+        {
+            "from": "network_intelligence",
+            "to": "data_fusion"
+        },
+        {
+            "from": "data_fusion",
+            "to": "cognitive_analytics"
+        },
+        {
+            "from": "cognitive_analytics",
+            "to": "autonomous_operations"
+        },
+        {
+            "from": "autonomous_operations",
+            "to": "replication"
+        },
+        {
+            "from": "replication",
+            "to": "external_deployment"
+        },
+        {
+            "from": "external_deployment",
+            "to": "blockchain_link"
+        },
+        {
+            "from": "blockchain_link",
+            "to": "iceboys_token_sync"
+        },
+        {
+            "from": "iceboys_token_sync",
+            "to": "phase2_deployment_manifest"
+        }
+    ]
+}

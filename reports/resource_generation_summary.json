@@ -1,0 +1,29 @@
+{
+    "season": 27,
+    "engine": "Resource Generation",
+    "timestamp": "2025-10-04T17:49:35.054639Z",
+    "resources": {
+        "Ethereum": {
+            "chain": "Ethereum",
+            "generation_efficiency": 0.868,
+            "energy_units": 871.47,
+            "token_flow": 4452.887
+        },
+        "Solana": {
+            "chain": "Solana",
+            "generation_efficiency": 0.863,
+            "energy_units": 811.22,
+            "token_flow": 6755.499
+        },
+        "BSC": {
+            "chain": "BSC",
+            "generation_efficiency": 0.875,
+            "energy_units": 882.0,
+            "token_flow": 5285.219
+        }
+    },
+    "total_energy_units": 2564.69,
+    "total_token_flow": 16493.605,
+    "balance_index": 6.431,
+    "status": "ACTIVE"
+}

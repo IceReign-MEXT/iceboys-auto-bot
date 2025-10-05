@@ -1,0 +1,6 @@
+{
+    "learning_rate": 0.02,
+    "scan_frequency": "daily",
+    "auto_log": true,
+    "debug_mode": true
+}

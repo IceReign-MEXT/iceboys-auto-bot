@@ -1,0 +1,28 @@
+{
+    "timestamp": "2025-10-04 18:10:40",
+    "detected_networks": [],
+    "linked_systems": [
+        "engine",
+        "reports",
+        "ai_core",
+        "network",
+        "temp"
+    ],
+    "data_streams": [
+        {
+            "name": "stream_1",
+            "status": "active",
+            "packets": 120
+        },
+        {
+            "name": "stream_2",
+            "status": "active",
+            "packets": 135
+        },
+        {
+            "name": "stream_3",
+            "status": "active",
+            "packets": 150
+        }
+    ]
+}

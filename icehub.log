@@ -1,0 +1,28 @@
+nohup: ignoring input
+Starting IceHub Tracker...
+2025-10-05 02:25:39,453 [WARNING] ETH fetch error: invalid literal for int() with base 10: 'You are using a deprecated V1 endpoint, switch to Etherscan API V2 using https://docs.etherscan.io/v2-migration'
+2025-10-05 02:25:41,694 [INFO] HTTP Request: POST https://api.mainnet-beta.solana.com "HTTP/1.1 200 OK"
+2025-10-05 02:25:46,736 [ERROR] ❌ Failed to post update: Timed out
+2025-10-05 03:25:52,945 [WARNING] ETH fetch error: invalid literal for int() with base 10: 'You are using a deprecated V1 endpoint, switch to Etherscan API V2 using https://docs.etherscan.io/v2-migration'
+2025-10-05 03:25:58,580 [INFO] HTTP Request: POST https://api.mainnet-beta.solana.com "HTTP/1.1 200 OK"
+2025-10-05 03:26:03,612 [ERROR] ❌ Failed to post update: Timed out
+2025-10-05 04:26:15,046 [WARNING] ETH fetch error: invalid literal for int() with base 10: 'You are using a deprecated V1 endpoint, switch to Etherscan API V2 using https://docs.etherscan.io/v2-migration'
+2025-10-05 04:26:25,157 [WARNING] SOL fetch error: 
+2025-10-05 04:26:30,205 [ERROR] ❌ Failed to post update: Timed out
+2025-10-05 05:26:36,507 [WARNING] ETH fetch error: invalid literal for int() with base 10: 'You are using a deprecated V1 endpoint, switch to Etherscan API V2 using https://docs.etherscan.io/v2-migration'
+2025-10-05 05:26:37,160 [INFO] HTTP Request: POST https://api.mainnet-beta.solana.com "HTTP/1.1 200 OK"
+2025-10-05 05:26:42,190 [ERROR] ❌ Failed to post update: Timed out
+2025-10-05 06:26:45,021 [WARNING] ETH fetch error: invalid literal for int() with base 10: 'You are using a deprecated V1 endpoint, switch to Etherscan API V2 using https://docs.etherscan.io/v2-migration'
+2025-10-05 06:26:46,587 [INFO] HTTP Request: POST https://api.mainnet-beta.solana.com "HTTP/1.1 200 OK"
+2025-10-05 06:26:47,621 [INFO] HTTP Request: POST https://api.telegram.org/bot8398239711:AAEOq44XzZ5m8O3KcHXQdPAUbISjbeLCtzE/sendMessage "HTTP/1.1 200 OK"
+2025-10-05 06:26:47,678 [INFO] ✅ Update posted to Telegram
+2025-10-05 07:31:03,937 [WARNING] ETH fetch error: invalid literal for int() with base 10: 'You are using a deprecated V1 endpoint, switch to Etherscan API V2 using https://docs.etherscan.io/v2-migration'
+2025-10-05 07:31:06,774 [INFO] HTTP Request: POST https://api.mainnet-beta.solana.com "HTTP/1.1 200 OK"
+2025-10-05 07:31:11,805 [ERROR] ❌ Failed to post update: Timed out
+2025-10-05 08:42:54,120 [WARNING] ETH fetch error: invalid literal for int() with base 10: 'You are using a deprecated V1 endpoint, switch to Etherscan API V2 using https://docs.etherscan.io/v2-migration'
+2025-10-05 08:42:54,824 [INFO] HTTP Request: POST https://api.mainnet-beta.solana.com "HTTP/1.1 200 OK"
+2025-10-05 08:42:59,858 [ERROR] ❌ Failed to post update: Timed out
+2025-10-05 09:46:37,657 [WARNING] ETH fetch error: invalid literal for int() with base 10: 'You are using a deprecated V1 endpoint, switch to Etherscan API V2 using https://docs.etherscan.io/v2-migration'
+2025-10-05 09:46:39,351 [INFO] HTTP Request: POST https://api.mainnet-beta.solana.com "HTTP/1.1 200 OK"
+2025-10-05 09:46:40,702 [INFO] HTTP Request: POST https://api.telegram.org/bot8398239711:AAEOq44XzZ5m8O3KcHXQdPAUbISjbeLCtzE/sendMessage "HTTP/1.1 200 OK"
+2025-10-05 09:46:40,720 [INFO] ✅ Update posted to Telegram

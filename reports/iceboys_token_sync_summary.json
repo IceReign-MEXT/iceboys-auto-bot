@@ -1,0 +1,11 @@
+{
+    "timestamp": "2025-10-04 18:23:15.832798",
+    "chain": "Solana",
+    "token_name": "IceBoys",
+    "token_symbol": "ICEB",
+    "total_supply": 411729313,
+    "contract_address": "0x7218662f4bae6",
+    "liquidity_status": "Pending",
+    "sync_status": "complete",
+    "status": "\u2705 Synced Successfully"
+}
