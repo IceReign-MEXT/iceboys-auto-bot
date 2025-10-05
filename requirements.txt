@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-telegram-bot==20.7
+httpx==0.25.2
+solana==0.18.3
+python-dotenv
